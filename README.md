@@ -21,6 +21,4 @@ It lets users register, log in, chat one-on-one or in groups, and see messages i
 - **Database**: MongoDB (Mongoose)  
 - **Realtime**: Socket.io  
 - **Authentication**: JWT  
-- **Cloud Storage**: Cloudinary (profile pictures)
-
 ---
